@@ -19,3 +19,5 @@ hello java
 hello java
 hello java
 hello java
+scala
+scala
